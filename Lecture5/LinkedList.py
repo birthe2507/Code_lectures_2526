@@ -4,7 +4,7 @@ class LinkedList:
         self.__tail = None
         self.__size = 0
 
-    # Return the head element in the list 
+    # Return the head element in the list ff
     def getFirst(self):
         if self.__size == 0:
             return None
